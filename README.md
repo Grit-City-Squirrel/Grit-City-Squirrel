@@ -10,7 +10,7 @@ Vintage moto energy meets modern nonsense.
 
 ## Live Site
 
-👉 https://YOUR-USERNAME.github.io/grit-city-squirrel/
+👉 https://grit-city-squirrel.github.io/Grit-City-Squirrel/)
 
 ## First Drop (In Progress)
 
